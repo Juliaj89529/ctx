@@ -1,0 +1,5 @@
+[project]
+name = "ctx"
+version = "0.1.0"
+description = "Local context manager for Claude Code and Codex with workstreams, transcript binding, and branching."
+requires-python = ">=3.10"
